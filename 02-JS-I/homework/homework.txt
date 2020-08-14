@@ -1,0 +1,33 @@
+* Variables
+
+	Las variables son lugares que se crean con el fin de guardarle algo adentro. 
+	Para distinguir cada lugar que creamos de otro, se les pone nombre.
+	Entonces, si en mi "PrimerLugar" guardo un numero 1 y en mi "SegundoLugar" guardo un numero 2, cada vez que vaya a mi "PrimerLugar" voy a encontrar
+	mi numero 1 y así también en mi "SegundoLugar" mi número 2, hasta que lo reemplace por otro valor.
+
+
+* Strings
+
+	Los strings son un tipo de variable, que se escribe entre comillas y que el programa entiende que lo que estoy poniendo es un texto.
+
+
+* Funciones (argumentos, `return`)
+
+	Las funciones son pedazos del código que yo quiero reutilizar.
+	Al escribirla le pongo nombre para identificarla y cada vez que use su nombre, vendra todo el codigo que le enseñé.
+	Si quiero que algo adentro de la función cambie, puedo crearle ARGUMENTOS, que son variables que se ponen entre parentesis al lado de su nombre. 
+	Y cada vez que la escriba, le tendré que decir que valor quiero darle en esa oportunidad a su ARGUMENTO.
+	También puedo hacer que las funciones me den un resultado usando la palabra RETURN, pero si hago esto, una vez que me lo de, la funcion terminará.
+
+
+* Declaraciones `if`
+
+	Cuando quiero decidir algo en un programa, uso la condición IF, que significa "SI".
+	Y tengo que generar una condición para decidir, "SI" quiero que pase una cosa si esta condición pasa.
+	También puedo decirle al programa, si quiero que haga algo si esa condición NO PASA.
+
+
+* Valores booleanos (`true`, `false`)
+
+	Las variables, ademas de poder ser númericas o texto, puede tomar otros valores.
+	Estos son VERDADERO y FALSO, y me sirven, entre otras cosas, para evaluar condiciones como cuando hago un IF.

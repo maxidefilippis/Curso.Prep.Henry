@@ -1,0 +1,13 @@
+* `for`
+
+	Muchas veces cuando estamos haciendo un programa, necesitamos repetir el codigo cierta cantidad de veces.
+	Cuando sabemos cuantas veces lo queremos repetir, podemos usar la estructura "for" y decirle al programa que repita nuestro codigo hasta
+	que suceda una condición.
+	Tenemos que tener cuidado de ponerle una condición que efectivamente suceda, sino nuestro programa sera infinito.
+
+* `&&`, `||`, `!`
+
+	Cuando queremos comparar situaciones, podemos usar los operadores lógicos, estos se leen como "Y" "O" y "NO".
+	"Y" es verdadero siempre que las cosas que comparemos sean AMBAS verdaderas.
+	"O" es verdadero cuando AL MENOS UNA de las cosas que comparemos sea verdadera.
+	"NO" afecta a un solo elemento (o grupo de elementos) a la vez y hace que el valor de veracidad que tenga, pase a ser el contrario.
