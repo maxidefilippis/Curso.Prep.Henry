@@ -1,0 +1,5 @@
+* Arrays
+	
+	Un arreglo es un espacio reservado para guardar una colección de variables, pueden ser strings (textos), numeros, o booleanos (verdaderos y falsos)
+	Tienen una propiedad para saber cual es su longitud (length).
+	Podemos agregar o sacar elementos con las propiedades push o pop (desde el último elemento) y unshift o shift (desde el primer elemento).
